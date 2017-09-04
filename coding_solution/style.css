@@ -1,0 +1,24 @@
+﻿
+body{text-align:center;
+} 
+.wrapper {text-align:left; width:1200px; margin:0 auto}
+#gold{width:310px; margin-left:445px;
+}
+#google{width:300px; margin-left:450px;
+}
+#search{margin-left:580px; font-family:Calibri; font-size:18pt
+background-color:#FFFFFF; 
+border:0px solid #FFFFFF;
+box-shadow: 
+inset 1px 1px 1px rgba(255,255,255, 0.7), 
+inset -1px -1px 1px rgba(0,0,0, 0.5), 
+1px 1px 1px rgba(0,0,0, 0.35);
+}
+hr{width:1200px; border:1px solid #FFCC33;
+box-shadow: 
+inset 1px 1px 1px rgba(255,255,255, 0.7), 
+inset -1px -1px 1px rgba(0,0,0, 0.5), 
+1px 1px 1px rgba(0,0,0, 0.35);
+}
+#write{border:1px solid #FFFFFF; font-size: 14px; margin-left:520px;
+}
